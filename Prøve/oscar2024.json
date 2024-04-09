@@ -1,0 +1,598 @@
+[
+    {
+        "name": "Actor in a Leading Role",
+        "nominations": [
+            {
+                "name": "Bradley Cooper",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Colman Domingo",
+                "movie": "Rustin"
+            },
+            {
+                "name": "Paul Giamatti",
+                "movie": "The Holdovers"
+            },
+            {
+                "name": "Cillian Murphy",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Jeffrey Wright",
+                "movie": "American Fiction"
+            }
+        ]
+    },
+    {
+        "name": "Actor in a Supporting Role",
+        "nominations": [
+            {
+                "name": "Sterling K. Brown",
+                "movie": "American Fiction"
+            },
+            {
+                "name": "Robert De Niro",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Robert Downey Jr.",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Ryan Gosling",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Actress in a Leading Role",
+        "nominations": [
+            {
+                "name": "Annette Bening",
+                "movie": "Nyad"
+            },
+            {
+                "name": "Lily Gladstone",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Sandra Hüller",
+                "movie": "Anatomy of a Fall"
+            },
+            {
+                "name": "Carey Mulligan",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Emma Stone",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Actress in a Supporting Role",
+        "nominations": [
+            {
+                "name": "Emily Blunt",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Danielle Brooks",
+                "movie": "The Color Purple"
+            },
+            {
+                "name": "America Ferrera",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Jodie Foster",
+                "movie": "Nyad"
+            },
+            {
+                "name": "Da'Vine Joy Randolph",
+                "movie": "The Holdovers"
+            }
+        ]
+    },
+    {
+        "name": "Animated Feature Film",
+        "nominations": [
+            {
+                "name": "Hayao Miyazaki and Toshio Suzuki",
+                "movie": "The Boy and the Heron"
+            },
+            {
+                "name": "Peter Sohn and Denise Ream",
+                "movie": "Elemental"
+            },
+            {
+                "name": "Nick Bruno, Troy Quane, Karen Ryan and Julie Zackary",
+                "movie": "Nimona"
+            },
+            {
+                "name": "Pablo Berger, Ibon Cormenzana, Ignasi Estapé and Sandra Tapia Díaz",
+                "movie": "Robot Dreams"
+            },
+            {
+                "name": "Kemp Powers, Justin K. Thompson, Phil Lord, Christopher Miller and Amy Pascal",
+                "movie": "Spider-Man: Across the Spider-Verse"
+            }
+        ]
+    },
+    {
+        "name": "Cinematography",
+        "nominations": [
+            {
+                "name": "Edward Lachman",
+                "movie": "El Conde"
+            },
+            {
+                "name": "Rodrigo Prieto",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Matthew Libatique",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Hoyte van Hoytema",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Robbie Ryan",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Costume Design",
+        "nominations": [
+            {
+                "name": "Jacqueline Durran",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Jacqueline West",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Janty Yates and Dave Crossman",
+                "movie": "Napoleon"
+            },
+            {
+                "name": "Ellen Mirojnick",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Holly Waddington",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Directing",
+        "nominations": [
+            {
+                "name": "Justine Triet",
+                "movie": "Anatomy of a Fall"
+            },
+            {
+                "name": "Martin Scorsese",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Christopher Nolan",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Yorgos Lanthimos",
+                "movie": "Poor Things"
+            },
+            {
+                "name": "Jonathan Glazer",
+                "movie": "The Zone of Interest"
+            }
+        ]
+    },
+    {
+        "name": "Documentary Feature Film",
+        "nominations": [
+            {
+                "name": "Moses Bwayo, Christopher Sharp and John Battsek",
+                "movie": "Bobi Wine: The People's President"
+            },
+            {
+                "name": "Kaouther Ben Hania and Nadim Cheikhrouha",
+                "movie": "Four Daughters"
+            },
+            {
+                "name": "Nisha Pahuja, Cornelia Principe and David Oppenheim",
+                "movie": "To Kill a Tiger"
+            },
+            {
+                "name": "Mstyslav Chernov, Michelle Mizner and Raney Aronson-Rath",
+                "movie": "20 Days in Mariupol"
+            }
+        ]
+    },
+    {
+        "name": "Documentary Short Film",
+        "nominations": [
+            {
+                "name": "Sheila Nevins and Trish Adlesic",
+                "movie": "The ABCs of Book Banning"
+            },
+            {
+                "name": "John Hoffman and Christine Turner",
+                "movie": "The Barber of Little Rock"
+            },
+            {
+                "name": "S. Leo Chiang and Jean Tsien",
+                "movie": "Island in Between"
+            },
+            {
+                "name": "Ben Proudfoot and Kris Bowers",
+                "movie": "The Last Repair Shop"
+            },
+            {
+                "name": "Sean Wang and Sam Davis",
+                "movie": "Nǎi Nai & Wài Pó"
+            }
+        ]
+    },
+    {
+        "name": "Film Editing",
+        "nominations": [
+            {
+                "name": "Laurent Sénéchal",
+                "movie": "Anatomy of a Fall"
+            },
+            {
+                "name": "Kevin Tent",
+                "movie": "The Holdovers"
+            },
+            {
+                "name": "Thelma Schoonmaker",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Jennifer Lame",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Yorgos Mavropsaridis",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "International Feature Film",
+        "nominations": [
+            {
+                "name": "Italy",
+                "movie": "Io Capitano"
+            },
+            {
+                "name": "Japan",
+                "movie": "Perfect Days"
+            },
+            {
+                "name": "Spain",
+                "movie": "Society of the Snow"
+            },
+            {
+                "name": "Germany",
+                "movie": "The Teachers' Lounge"
+            },
+            {
+                "name": "United Kingdom",
+                "movie": "The Zone of Interest"
+            }
+        ]
+    },
+    {
+        "name": "Best Picture",
+        "nominations": [
+            {
+                "name": "Ben LeClair, Nikos Karamigios, Cord Jefferson and Jermaine Johnson",
+                "movie": "American Fiction"
+            },
+            {
+                "name": "Marie-Ange Luciani and David Thion",
+                "movie": "Anatomy of a Fall"
+            },
+            {
+                "name": "David Heyman, Margot Robbie, Tom Ackerley and Robbie Brenner",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Mark Johnson",
+                "movie": "The Holdovers"
+            },
+            {
+                "name": "Dan Friedkin, Bradley Thomas, Martin Scorsese and Daniel Lupi",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning and Kristie Macosko Krieger",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Emma Thomas, Charles Roven and Christopher Nolan",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "David Hinojosa, Christine Vachon and Pamela Koffler",
+                "movie": "Past Lives"
+            },
+            {
+                "name": "Ed Guiney, Andrew Lowe, Yorgos Lanthimos and Emma Stone",
+                "movie": "Poor Things"
+            },
+            {
+                "name": "James Wilson",
+                "movie": "The Zone of Interest"
+            }
+        ]
+    },
+    {
+        "name": "Makeup and Hairstyling",
+        "nominations": [
+            {
+                "name": "Karen Hartley Thomas, Suzi Battersby and Ashra Kelly-Blue",
+                "movie": "Golda"
+            },
+            {
+                "name": "Kazu Hiro, Kay Georgiou and Lori McCoy-Bell",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Luisa Abel",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Nadia Stacey, Mark Coulier and Josh Weston",
+                "movie": "Poor Things"
+            },
+            {
+                "name": "Ana López-Puigcerver, David Martí and Montse Ribé",
+                "movie": "Society of the Snow"
+            }
+        ]
+    },
+    {
+        "name": "Music (Original Score)",
+        "nominations": [
+            {
+                "name": "Laura Karpman",
+                "movie": "American Fiction"
+            },
+            {
+                "name": "John Williams",
+                "movie": "Indiana Jones and the Dial of Destiny"
+            },
+            {
+                "name": "Robbie Robertson",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Ludwig Göransson",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Jerskin Fendrix",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Music (Original Song)",
+        "nominations": [
+            {
+                "name": "Diane Warren",
+                "movie": "The Fire Inside",
+                "lyricist": "Diane Warren"
+            },
+            {
+                "name": "Mark Ronson and Andrew Wyatt",
+                "movie": "I'm Just Ken",
+                "lyricist": "Mark Ronson and Andrew Wyatt"
+            },
+            {
+                "name": "Jon Batiste and Dan Wilson",
+                "movie": "It Never Went Away",
+                "lyricist": "Jon Batiste and Dan Wilson"
+            },
+            {
+                "name": "Scott George",
+                "movie": "Wahzhazhe (A Song For My People)",
+                "lyricist": "Scott George"
+            },
+            {
+                "name": "Billie Eilish and Finneas O'Connell",
+                "movie": "What Was I Made For?",
+                "lyricist": "Billie Eilish and Finneas O'Connell"
+            }
+        ]
+    },
+    {
+        "name": "Production Design",
+        "nominations": [
+            {
+                "name": "Sarah Greenwood",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Jack Fisk",
+                "movie": "Killers of the Flower Moon"
+            },
+            {
+                "name": "Arthur Max",
+                "movie": "Napoleon"
+            },
+            {
+                "name": "Ruth De Jong",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "James Price and Shona Heath",
+                "movie": "Poor Things"
+            }
+        ]
+    },
+    {
+        "name": "Animated Short Film",
+        "nominations": [
+            {
+                "name": "Tal Kantor and Amit R. Gicelter",
+                "movie": "Letter to a Pig"
+            },
+            {
+                "name": "Jerusha Hess and Jared Hess",
+                "movie": "Ninety-Five Senses"
+            },
+            {
+                "name": "Yegane Moghaddam",
+                "movie": "Our Uniform"
+            },
+            {
+                "name": "Stéphanie Clément and Marc Rius",
+                "movie": "Pachyderme"
+            },
+            {
+                "name": "Dave Mullins and Brad Booker",
+                "movie": "WAR IS OVER! Inspired by the Music of John & Yoko"
+            }
+        ]
+    },
+    {
+        "name": "Live Action Short Film",
+        "nominations": [
+            {
+                "name": "Misan Harriman and Nicky Bentham",
+                "movie": "The After"
+            },
+            {
+                "name": "Vincent René-Lortie and Samuel Caron",
+                "movie": "Invincible"
+            },
+            {
+                "name": "Lasse Lyskjær Noer and Christian Norlyk",
+                "movie": "Knight of Fortune"
+            },
+            {
+                "name": "Nazrin Choudhury and Sara McFarlane",
+                "movie": "Red, White and Blue"
+            },
+            {
+                "name": "Wes Anderson and Steven Rales",
+                "movie": "The Wonderful Story of Henry Sugar"
+            }
+        ]
+    },
+    {
+        "name": "Sound",
+        "nominations": [
+            {
+                "name": "Ian Voigt, Erik Aadahl, Ethan Van der Ryn, Tom Ozanich and Dean Zupancic",
+                "movie": "The Creator"
+            },
+            {
+                "name": "Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich and Dean Zupancic",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Chris Munro, James H. Mather, Chris Burdon and Mark Taylor",
+                "movie": "Mission: Impossible - Dead Reckoning Part One"
+            },
+            {
+                "name": "Willie Burton, Richard King, Gary A. Rizzo and Kevin O'Connell",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Tarn Willers and Johnnie Burn",
+                "movie": "The Zone of Interest"
+            }
+        ]
+    },
+    {
+        "name": "Visual Effects",
+        "nominations": [
+            {
+                "name": "Jay Cooper, Ian Comley, Andrew Roberts and Neil Corbould",
+                "movie": "The Creator"
+            },
+            {
+                "name": "Takashi Yamazaki, Kiyoko Shibuya, Masaki Takahashi and Tatsuji Nojima",
+                "movie": "Godzilla Minus One"
+            },
+            {
+                "name": "Stephane Ceretti, Alexis Wajsbrot, Guy Williams and Theo Bialek",
+                "movie": "Guardians of the Galaxy Vol. 3"
+            },
+            {
+                "name": "Alex Wuttke, Simone Coco, Jeff Sutherland and Neil Corbould",
+                "movie": "Mission: Impossible - Dead Reckoning Part One"
+            },
+            {
+                "name": "Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco and Neil Corbould",
+                "movie": "Napoleon"
+            }
+        ]
+    },
+    {
+        "name": "Writing (Adapted Screenplay)",
+        "nominations": [
+            {
+                "name": "Cord Jefferson",
+                "movie": "American Fiction"
+            },
+            {
+                "name": "Greta Gerwig & Noah Baumbach",
+                "movie": "Barbie"
+            },
+            {
+                "name": "Christopher Nolan",
+                "movie": "Oppenheimer"
+            },
+            {
+                "name": "Tony McNamara",
+                "movie": "Poor Things"
+            },
+            {
+                "name": "Jonathan Glazer",
+                "movie": "The Zone of Interest"
+            }
+        ]
+    },
+    {
+        "name": "Writing (Original Screenplay)",
+        "nominations": [
+            {
+                "name": "Justine Triet and Arthur Harari",
+                "movie": "Anatomy of a Fall"
+            },
+            {
+                "name": "David Hemingson",
+                "movie": "The Holdovers"
+            },
+            {
+                "name": "Bradley Cooper & Josh Singer",
+                "movie": "Maestro"
+            },
+            {
+                "name": "Samy Burch; Story by Samy Burch & Alex Mechanik",
+                "movie": "May December"
+            },
+            {
+                "name": "Celine Song",
+                "movie": "Past Lives"
+            }
+        ]
+    }
+]

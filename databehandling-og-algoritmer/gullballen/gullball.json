@@ -1,0 +1,74 @@
+[
+    {
+      "navn": "Luís Figo",
+      "år": [2000],
+      "nasjonalitet": "Portugal",
+      "klubber": ["Real Madrid"]
+    },
+    {
+      "navn": "Michael Owen",
+      "år": [2001],
+      "nasjonalitet": "England",
+      "klubber": ["Liverpool"]
+    },
+    {
+      "navn": "Ronaldo",
+      "år": [2002],
+      "nasjonalitet": "Brasil",
+      "klubber": ["Real Madrid"]
+    },
+    {
+      "navn": "Pavel Nedvěd",
+      "år": [2003],
+      "nasjonalitet": "Tsjekkia",
+      "klubber": ["Juventus"]
+    },
+    {
+      "navn": "Andriy Shevchenko",
+      "år": [2004],
+      "nasjonalitet": "Ukraina",
+      "klubber": ["Milan"]
+    },
+    {
+      "navn": "Ronaldinho",
+      "år": [2005],
+      "nasjonalitet": "Brasil",
+      "klubber": ["Barcelona"]
+    },
+    {
+      "navn": "Fabio Cannavaro",
+      "år": [2006],
+      "nasjonalitet": "Italia",
+      "klubber": ["Real Madrid"]
+    },
+    {
+      "navn": "Kaká",
+      "år": [2007],
+      "nasjonalitet": "Brasil",
+      "klubber": ["Milan"]
+    },
+    {
+      "navn": "Cristiano Ronaldo",
+      "år": [2008, 2013, 2014, 2016, 2017],
+      "nasjonalitet": "Portugal",
+      "klubber": ["Manchester United", "Real Madrid"]
+    },
+    {
+      "navn": "Lionel Messi",
+      "år": [2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023],
+      "nasjonalitet": "Argentina",
+      "klubber": ["Barcelona", "Paris Saint-Germain F.C.", "Inter Miami"]
+    },
+    {
+      "navn": "Luka Modric",
+      "år": [2018],
+      "nasjonalitet": "Kroatia",
+      "klubber": ["Real Madrid"]
+    },
+    {
+      "navn": "Karim Benzema",
+      "år": [2022],
+      "nasjonalitet": "Frankrike",
+      "klubber": ["Real Madrid"]
+    }
+  ]

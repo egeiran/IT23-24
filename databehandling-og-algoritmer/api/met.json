@@ -1,0 +1,4556 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10,
+      60.1,
+      267
+    ]
+  },
+  "properties": {
+    "meta": {
+      "updated_at": "2024-01-23T11:36:12Z",
+      "units": {
+        "air_pressure_at_sea_level": "hPa",
+        "air_temperature": "celsius",
+        "air_temperature_max": "celsius",
+        "air_temperature_min": "celsius",
+        "air_temperature_percentile_10": "celsius",
+        "air_temperature_percentile_90": "celsius",
+        "cloud_area_fraction": "%",
+        "cloud_area_fraction_high": "%",
+        "cloud_area_fraction_low": "%",
+        "cloud_area_fraction_medium": "%",
+        "dew_point_temperature": "celsius",
+        "fog_area_fraction": "%",
+        "precipitation_amount": "mm",
+        "precipitation_amount_max": "mm",
+        "precipitation_amount_min": "mm",
+        "probability_of_precipitation": "%",
+        "probability_of_thunder": "%",
+        "relative_humidity": "%",
+        "ultraviolet_index_clear_sky": "1",
+        "wind_from_direction": "degrees",
+        "wind_speed": "m/s",
+        "wind_speed_of_gust": "m/s",
+        "wind_speed_percentile_10": "m/s",
+        "wind_speed_percentile_90": "m/s"
+      }
+    },
+    "timeseries": [
+      {
+        "time": "2024-01-23T11:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 999.5,
+              "air_temperature": 5.0,
+              "air_temperature_percentile_10": 4.4,
+              "air_temperature_percentile_90": 5.7,
+              "cloud_area_fraction": 15.7,
+              "cloud_area_fraction_high": 0.8,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 8.2,
+              "dew_point_temperature": -1.3,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 65.2,
+              "ultraviolet_index_clear_sky": 0.4,
+              "wind_from_direction": 274.6,
+              "wind_speed": 3.2,
+              "wind_speed_of_gust": 8.7,
+              "wind_speed_percentile_10": 2.0,
+              "wind_speed_percentile_90": 4.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsnowshowers_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 79.5
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "fair_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_day"
+            },
+            "details": {
+              "air_temperature_max": 4.6,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1000.4,
+              "air_temperature": 4.6,
+              "air_temperature_percentile_10": 3.7,
+              "air_temperature_percentile_90": 5.4,
+              "cloud_area_fraction": 10.7,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 9.6,
+              "dew_point_temperature": -1.2,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 67.6,
+              "ultraviolet_index_clear_sky": 0.4,
+              "wind_from_direction": 251.3,
+              "wind_speed": 1.7,
+              "wind_speed_of_gust": 7.8,
+              "wind_speed_percentile_10": 1.6,
+              "wind_speed_percentile_90": 2.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleetshowers_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "air_temperature_max": 4.3,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T13:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1002.0,
+              "air_temperature": 4.3,
+              "air_temperature_percentile_10": 3.4,
+              "air_temperature_percentile_90": 5.3,
+              "cloud_area_fraction": 7.1,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 7.1,
+              "dew_point_temperature": -0.8,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 70.2,
+              "ultraviolet_index_clear_sky": 0.3,
+              "wind_from_direction": 266.2,
+              "wind_speed": 2.4,
+              "wind_speed_of_gust": 5.7,
+              "wind_speed_percentile_10": 1.2,
+              "wind_speed_percentile_90": 2.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleetshowers_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "air_temperature_max": 3.5,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T14:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1002.9,
+              "air_temperature": 3.5,
+              "air_temperature_percentile_10": 2.4,
+              "air_temperature_percentile_90": 4.6,
+              "cloud_area_fraction": 5.2,
+              "cloud_area_fraction_high": 1.6,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 70.8,
+              "ultraviolet_index_clear_sky": 0.1,
+              "wind_from_direction": 267.1,
+              "wind_speed": 1.6,
+              "wind_speed_of_gust": 5.7,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 2.2
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.5,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T15:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1003.4,
+              "air_temperature": 1.5,
+              "air_temperature_percentile_10": 0.7,
+              "air_temperature_percentile_90": 2.5,
+              "cloud_area_fraction": 5.6,
+              "cloud_area_fraction_high": 5.6,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.1,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 83.4,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 248.1,
+              "wind_speed": 0.9,
+              "wind_speed_of_gust": 3.4,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 1.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 0.6,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T16:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1004.0,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -0.5,
+              "air_temperature_percentile_90": 1.6,
+              "cloud_area_fraction": 78.9,
+              "cloud_area_fraction_high": 78.9,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.3,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 87.9,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 279.7,
+              "wind_speed": 1.3,
+              "wind_speed_of_gust": 3.2,
+              "wind_speed_percentile_10": 1.3,
+              "wind_speed_percentile_90": 1.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 0.4,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.6
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T17:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1003.7,
+              "air_temperature": 0.2,
+              "air_temperature_percentile_10": -1.1,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 63.2,
+              "cloud_area_fraction_high": 63.2,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.1,
+              "dew_point_temperature": -2.0,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 87.8,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 304.8,
+              "wind_speed": 1.3,
+              "wind_speed_of_gust": 2.9,
+              "wind_speed_percentile_10": 1.0,
+              "wind_speed_percentile_90": 1.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "snow"
+            },
+            "details": {
+              "air_temperature_max": 0.4,
+              "air_temperature_min": 0.1,
+              "precipitation_amount": 1.0,
+              "precipitation_amount_max": 2.3,
+              "precipitation_amount_min": 0.5,
+              "probability_of_precipitation": 79.5
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1002.9,
+              "air_temperature": 0.1,
+              "air_temperature_percentile_10": -1.2,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 91.9,
+              "cloud_area_fraction_high": 91.8,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 2.8,
+              "dew_point_temperature": -2.4,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 85.6,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 270.4,
+              "wind_speed": 1.0,
+              "wind_speed_of_gust": 2.6,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 1.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.4,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 3.4,
+              "precipitation_amount_max": 4.6,
+              "precipitation_amount_min": 2.0,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T19:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1001.4,
+              "air_temperature": 0.4,
+              "air_temperature_percentile_10": -1.1,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 0.1,
+              "cloud_area_fraction_medium": 22.8,
+              "dew_point_temperature": -2.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 81.2,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 139.6,
+              "wind_speed": 0.5,
+              "wind_speed_of_gust": 2.7,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "air_temperature_max": 0.6,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 5.1,
+              "precipitation_amount_max": 6.5,
+              "precipitation_amount_min": 3.3,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T20:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1000.0,
+              "air_temperature": 0.3,
+              "air_temperature_percentile_10": -0.8,
+              "air_temperature_percentile_90": 1.2,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 0.4,
+              "cloud_area_fraction_medium": 71.8,
+              "dew_point_temperature": -2.4,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 83.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 9.3,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 1.8,
+              "wind_speed_percentile_10": 0.3,
+              "wind_speed_percentile_90": 1.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "air_temperature_max": 0.8,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 6.0,
+              "precipitation_amount_max": 7.4,
+              "precipitation_amount_min": 4.2,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T21:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 998.2,
+              "air_temperature": 0.4,
+              "air_temperature_percentile_10": -0.7,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 37.2,
+              "cloud_area_fraction_medium": 99.7,
+              "dew_point_temperature": -2.5,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 82.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 36.2,
+              "wind_speed": 1.1,
+              "wind_speed_of_gust": 2.5,
+              "wind_speed_percentile_10": 0.6,
+              "wind_speed_percentile_90": 1.2
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.3,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 25.8,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "air_temperature_max": 0.8,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 6.1,
+              "precipitation_amount_max": 8.4,
+              "precipitation_amount_min": 4.6,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T22:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 996.6,
+              "air_temperature": 0.4,
+              "air_temperature_percentile_10": -0.6,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 74.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": -2.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 80.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 71.9,
+              "wind_speed": 1.3,
+              "wind_speed_of_gust": 3.0,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 1.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "heavysnow"
+            },
+            "details": {
+              "precipitation_amount": 1.0,
+              "precipitation_amount_max": 1.9,
+              "precipitation_amount_min": 0.5,
+              "probability_of_precipitation": 92.8,
+              "probability_of_thunder": 0.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "air_temperature_max": 0.8,
+              "air_temperature_min": 0.2,
+              "precipitation_amount": 6.1,
+              "precipitation_amount_max": 8.5,
+              "precipitation_amount_min": 4.7,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-23T23:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 994.8,
+              "air_temperature": 0.2,
+              "air_temperature_percentile_10": -0.9,
+              "air_temperature_percentile_90": 1.2,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": -0.8,
+              "fog_area_fraction": 4.6,
+              "relative_humidity": 94.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 100.7,
+              "wind_speed": 2.5,
+              "wind_speed_of_gust": 6.1,
+              "wind_speed_percentile_10": 1.4,
+              "wind_speed_percentile_90": 2.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "sleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "heavysnow"
+            },
+            "details": {
+              "precipitation_amount": 2.4,
+              "precipitation_amount_max": 2.7,
+              "precipitation_amount_min": 1.3,
+              "probability_of_precipitation": 100.0,
+              "probability_of_thunder": 1.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "air_temperature_max": 0.8,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 5.1,
+              "precipitation_amount_max": 6.9,
+              "precipitation_amount_min": 3.8,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 992.4,
+              "air_temperature": 0.3,
+              "air_temperature_percentile_10": -0.7,
+              "air_temperature_percentile_90": 1.1,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": 0.1,
+              "fog_area_fraction": 87.0,
+              "relative_humidity": 99.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 102.9,
+              "wind_speed": 2.7,
+              "wind_speed_of_gust": 6.8,
+              "wind_speed_percentile_10": 2.0,
+              "wind_speed_percentile_90": 2.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 100.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "heavysleet"
+            },
+            "details": {
+              "precipitation_amount": 1.6,
+              "precipitation_amount_max": 2.3,
+              "precipitation_amount_min": 1.1,
+              "probability_of_precipitation": 100.0,
+              "probability_of_thunder": 1.5
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": 0.6,
+              "precipitation_amount": 3.1,
+              "precipitation_amount_max": 4.8,
+              "precipitation_amount_min": 2.2,
+              "probability_of_precipitation": 100.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T01:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 990.2,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -0.3,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": 0.4,
+              "fog_area_fraction": 81.2,
+              "relative_humidity": 99.8,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 107.2,
+              "wind_speed": 2.4,
+              "wind_speed_of_gust": 6.9,
+              "wind_speed_percentile_10": 2.3,
+              "wind_speed_percentile_90": 3.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 98.4
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "precipitation_amount": 0.9,
+              "precipitation_amount_max": 1.5,
+              "precipitation_amount_min": 0.5,
+              "probability_of_precipitation": 99.5,
+              "probability_of_thunder": 0.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": 0.6,
+              "precipitation_amount": 2.5,
+              "precipitation_amount_max": 3.2,
+              "precipitation_amount_min": 1.1,
+              "probability_of_precipitation": 98.2
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T02:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 987.6,
+              "air_temperature": 0.8,
+              "air_temperature_percentile_10": -0.1,
+              "air_temperature_percentile_90": 1.5,
+              "cloud_area_fraction": 99.9,
+              "cloud_area_fraction_high": 2.9,
+              "cloud_area_fraction_low": 99.7,
+              "cloud_area_fraction_medium": 72.0,
+              "dew_point_temperature": 0.5,
+              "fog_area_fraction": 17.5,
+              "relative_humidity": 98.6,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 106.2,
+              "wind_speed": 2.5,
+              "wind_speed_of_gust": 6.2,
+              "wind_speed_percentile_10": 1.6,
+              "wind_speed_percentile_90": 2.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 80.8
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "lightsleet"
+            },
+            "details": {
+              "precipitation_amount": 0.2,
+              "precipitation_amount_max": 0.9,
+              "precipitation_amount_min": 0.2,
+              "probability_of_precipitation": 91.0,
+              "probability_of_thunder": 0.4
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": 0.6,
+              "precipitation_amount": 1.6,
+              "precipitation_amount_max": 2.2,
+              "precipitation_amount_min": 0.4,
+              "probability_of_precipitation": 74.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T03:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 985.6,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -0.2,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 0.8,
+              "cloud_area_fraction_low": 99.9,
+              "cloud_area_fraction_medium": 51.0,
+              "dew_point_temperature": 0.0,
+              "fog_area_fraction": 0.8,
+              "relative_humidity": 95.8,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 88.4,
+              "wind_speed": 1.9,
+              "wind_speed_of_gust": 6.1,
+              "wind_speed_percentile_10": 1.2,
+              "wind_speed_percentile_90": 2.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 60.7
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "lightsleet"
+            },
+            "details": {
+              "precipitation_amount": 0.1,
+              "precipitation_amount_max": 0.5,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 52.5,
+              "probability_of_thunder": 0.2
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 1.5,
+              "precipitation_amount_max": 1.7,
+              "precipitation_amount_min": 0.3,
+              "probability_of_precipitation": 56.5
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T04:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 984.1,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -0.2,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 52.8,
+              "cloud_area_fraction_low": 99.8,
+              "cloud_area_fraction_medium": 86.0,
+              "dew_point_temperature": -0.2,
+              "fog_area_fraction": 0.5,
+              "relative_humidity": 95.0,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 84.1,
+              "wind_speed": 1.7,
+              "wind_speed_of_gust": 4.8,
+              "wind_speed_percentile_10": 1.0,
+              "wind_speed_percentile_90": 1.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 45.3
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.2,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 25.8,
+              "probability_of_thunder": 0.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 1.5,
+              "precipitation_amount_max": 1.7,
+              "precipitation_amount_min": 0.1,
+              "probability_of_precipitation": 42.5
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T05:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 983.3,
+              "air_temperature": 0.8,
+              "air_temperature_percentile_10": -0.2,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 92.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 97.5,
+              "dew_point_temperature": 0.0,
+              "fog_area_fraction": 0.6,
+              "relative_humidity": 95.1,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 92.7,
+              "wind_speed": 1.5,
+              "wind_speed_of_gust": 4.3,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 1.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsleet",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 45.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.5,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 32.0,
+              "probability_of_thunder": 1.5
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "sleet"
+            },
+            "details": {
+              "air_temperature_max": 1.4,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 1.3,
+              "precipitation_amount_max": 1.7,
+              "precipitation_amount_min": 0.1,
+              "probability_of_precipitation": 41.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 982.9,
+              "air_temperature": 0.9,
+              "air_temperature_percentile_10": -0.1,
+              "air_temperature_percentile_90": 1.6,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 98.9,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 99.8,
+              "dew_point_temperature": 0.4,
+              "fog_area_fraction": 4.2,
+              "relative_humidity": 97.4,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 71.8,
+              "wind_speed": 0.7,
+              "wind_speed_of_gust": 3.7,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 37.6
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.4,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 22.7,
+              "probability_of_thunder": 2.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 1.5,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 31.3
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T07:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 982.7,
+              "air_temperature": 0.8,
+              "air_temperature_percentile_10": -0.1,
+              "air_temperature_percentile_90": 1.6,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 98.4,
+              "cloud_area_fraction_medium": 80.5,
+              "dew_point_temperature": 0.4,
+              "fog_area_fraction": 2.2,
+              "relative_humidity": 98.0,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 49.9,
+              "wind_speed": 0.9,
+              "wind_speed_of_gust": 2.5,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 30.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.2,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 17.2,
+              "probability_of_thunder": 1.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 1.4,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 21.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T08:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 982.8,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -0.4,
+              "air_temperature_percentile_90": 1.4,
+              "cloud_area_fraction": 99.8,
+              "cloud_area_fraction_high": 97.3,
+              "cloud_area_fraction_low": 94.3,
+              "cloud_area_fraction_medium": 30.4,
+              "dew_point_temperature": 0.3,
+              "fog_area_fraction": 5.1,
+              "relative_humidity": 99.2,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 350.4,
+              "wind_speed": 0.5,
+              "wind_speed_of_gust": 2.2,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 0.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 31.3
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.6,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 24.8,
+              "probability_of_thunder": 1.5
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.5,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 1.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 21.2
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T09:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 982.7,
+              "air_temperature": 0.5,
+              "air_temperature_percentile_10": -0.5,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 99.5,
+              "cloud_area_fraction_high": 96.9,
+              "cloud_area_fraction_low": 84.0,
+              "cloud_area_fraction_medium": 57.3,
+              "dew_point_temperature": 0.1,
+              "fog_area_fraction": 1.7,
+              "relative_humidity": 98.3,
+              "ultraviolet_index_clear_sky": 0.1,
+              "wind_from_direction": 29.6,
+              "wind_speed": 0.6,
+              "wind_speed_of_gust": 1.9,
+              "wind_speed_percentile_10": 0.3,
+              "wind_speed_percentile_90": 0.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.3,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 21.2,
+              "probability_of_thunder": 1.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.3
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T10:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 983.3,
+              "air_temperature": 0.9,
+              "air_temperature_percentile_10": -0.1,
+              "air_temperature_percentile_90": 1.6,
+              "cloud_area_fraction": 99.9,
+              "cloud_area_fraction_high": 98.0,
+              "cloud_area_fraction_low": 68.4,
+              "cloud_area_fraction_medium": 82.9,
+              "dew_point_temperature": 0.1,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 96.0,
+              "ultraviolet_index_clear_sky": 0.3,
+              "wind_from_direction": 335.7,
+              "wind_speed": 0.2,
+              "wind_speed_of_gust": 1.3,
+              "wind_speed_percentile_10": 0.2,
+              "wind_speed_percentile_90": 0.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 11.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.2,
+              "probability_of_thunder": 0.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 2.3
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T11:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 983.6,
+              "air_temperature": 1.4,
+              "air_temperature_percentile_10": 0.3,
+              "air_temperature_percentile_90": 2.2,
+              "cloud_area_fraction": 98.4,
+              "cloud_area_fraction_high": 92.1,
+              "cloud_area_fraction_low": 41.1,
+              "cloud_area_fraction_medium": 68.0,
+              "dew_point_temperature": 0.3,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 93.4,
+              "ultraviolet_index_clear_sky": 0.4,
+              "wind_from_direction": 50.7,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 2.0,
+              "wind_speed_percentile_10": 0.3,
+              "wind_speed_percentile_90": 0.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.7
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 4.6,
+              "probability_of_thunder": 0.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.8,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.2
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 984.3,
+              "air_temperature": 1.8,
+              "air_temperature_percentile_10": 0.6,
+              "air_temperature_percentile_90": 2.7,
+              "cloud_area_fraction": 97.2,
+              "cloud_area_fraction_high": 92.8,
+              "cloud_area_fraction_low": 14.7,
+              "cloud_area_fraction_medium": 68.8,
+              "dew_point_temperature": 0.4,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 91.3,
+              "ultraviolet_index_clear_sky": 0.3,
+              "wind_from_direction": 100.3,
+              "wind_speed": 0.5,
+              "wind_speed_of_gust": 2.0,
+              "wind_speed_percentile_10": 0.2,
+              "wind_speed_percentile_90": 0.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.7
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "air_temperature_max": 1.7,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T13:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 985.2,
+              "air_temperature": 1.7,
+              "air_temperature_percentile_10": 0.7,
+              "air_temperature_percentile_90": 2.8,
+              "cloud_area_fraction": 98.3,
+              "cloud_area_fraction_high": 97.4,
+              "cloud_area_fraction_low": 1.1,
+              "cloud_area_fraction_medium": 63.1,
+              "dew_point_temperature": 0.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 93.0,
+              "ultraviolet_index_clear_sky": 0.2,
+              "wind_from_direction": 138.9,
+              "wind_speed": 0.3,
+              "wind_speed_of_gust": 1.3,
+              "wind_speed_percentile_10": 0.3,
+              "wind_speed_percentile_90": 0.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.7
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "air_temperature_max": 1.6,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 6.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T14:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 986.4,
+              "air_temperature": 1.6,
+              "air_temperature_percentile_10": 0.6,
+              "air_temperature_percentile_90": 2.5,
+              "cloud_area_fraction": 77.2,
+              "cloud_area_fraction_high": 76.1,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 5.1,
+              "dew_point_temperature": 0.9,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 96.1,
+              "ultraviolet_index_clear_sky": 0.1,
+              "wind_from_direction": 258.9,
+              "wind_speed": 0.3,
+              "wind_speed_of_gust": 0.9,
+              "wind_speed_percentile_10": 0.2,
+              "wind_speed_percentile_90": 0.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.7
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 1.4,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.1,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 8.6
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T15:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 987.7,
+              "air_temperature": 0.7,
+              "air_temperature_percentile_10": -0.3,
+              "air_temperature_percentile_90": 2.1,
+              "cloud_area_fraction": 83.0,
+              "cloud_area_fraction_high": 80.3,
+              "cloud_area_fraction_low": 0.1,
+              "cloud_area_fraction_medium": 23.8,
+              "dew_point_temperature": 0.4,
+              "fog_area_fraction": 4.4,
+              "relative_humidity": 99.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 0.6,
+              "wind_speed": 0.7,
+              "wind_speed_of_gust": 1.5,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 0.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.4
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 2.7,
+              "probability_of_thunder": 1.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.1,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 8.4
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T16:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 989.2,
+              "air_temperature": 0.3,
+              "air_temperature_percentile_10": -1.0,
+              "air_temperature_percentile_90": 2.0,
+              "cloud_area_fraction": 82.4,
+              "cloud_area_fraction_high": 70.8,
+              "cloud_area_fraction_low": 1.8,
+              "cloud_area_fraction_medium": 68.0,
+              "dew_point_temperature": -0.1,
+              "fog_area_fraction": 0.9,
+              "relative_humidity": 98.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 336.0,
+              "wind_speed": 0.7,
+              "wind_speed_of_gust": 1.6,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 0.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_night",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 8.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.7,
+              "probability_of_thunder": 1.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.3,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 8.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T17:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 990.6,
+              "air_temperature": 0.7,
+              "air_temperature_percentile_10": -1.1,
+              "air_temperature_percentile_90": 1.9,
+              "cloud_area_fraction": 81.6,
+              "cloud_area_fraction_high": 16.2,
+              "cloud_area_fraction_low": 15.9,
+              "cloud_area_fraction_medium": 79.2,
+              "dew_point_temperature": 0.3,
+              "fog_area_fraction": 0.6,
+              "relative_humidity": 98.6,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 308.3,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 1.8,
+              "wind_speed_percentile_10": 0.6,
+              "wind_speed_percentile_90": 0.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_night",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 3.1
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.0,
+              "probability_of_thunder": 0.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.3,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 3.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 991.9,
+              "air_temperature": 1.1,
+              "air_temperature_percentile_10": -1.4,
+              "air_temperature_percentile_90": 2.1,
+              "cloud_area_fraction": 87.6,
+              "cloud_area_fraction_high": 1.8,
+              "cloud_area_fraction_low": 32.7,
+              "cloud_area_fraction_medium": 82.6,
+              "dew_point_temperature": 0.6,
+              "fog_area_fraction": 0.2,
+              "relative_humidity": 97.6,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 319.0,
+              "wind_speed": 0.5,
+              "wind_speed_of_gust": 1.8,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.2
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_night",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 1.6
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.8,
+              "probability_of_thunder": 0.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.3,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 1.7
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T19:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 993.1,
+              "air_temperature": 1.0,
+              "air_temperature_percentile_10": -1.6,
+              "air_temperature_percentile_90": 2.0,
+              "cloud_area_fraction": 49.3,
+              "cloud_area_fraction_high": 3.9,
+              "cloud_area_fraction_low": 15.1,
+              "cloud_area_fraction_medium": 37.5,
+              "dew_point_temperature": 0.6,
+              "fog_area_fraction": 0.3,
+              "relative_humidity": 98.1,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 322.4,
+              "wind_speed": 0.4,
+              "wind_speed_of_gust": 1.1,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 1.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_night",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.8,
+              "probability_of_thunder": 0.5
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 2.2,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T20:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 994.5,
+              "air_temperature": 0.7,
+              "air_temperature_percentile_10": -1.8,
+              "air_temperature_percentile_90": 2.0,
+              "cloud_area_fraction": 75.7,
+              "cloud_area_fraction_high": 9.3,
+              "cloud_area_fraction_low": 10.4,
+              "cloud_area_fraction_medium": 70.9,
+              "dew_point_temperature": 0.3,
+              "fog_area_fraction": 0.3,
+              "relative_humidity": 98.2,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 305.7,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 1.7,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 2.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_night",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.5,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 0.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T21:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 996.0,
+              "air_temperature": 1.1,
+              "air_temperature_percentile_10": -1.4,
+              "air_temperature_percentile_90": 2.2,
+              "cloud_area_fraction": 87.8,
+              "cloud_area_fraction_high": 35.2,
+              "cloud_area_fraction_low": 6.8,
+              "cloud_area_fraction_medium": 84.8,
+              "dew_point_temperature": 0.6,
+              "fog_area_fraction": 0.1,
+              "relative_humidity": 97.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 299.8,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 1.9,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 2.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 0.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T22:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 997.3,
+              "air_temperature": 1.3,
+              "air_temperature_percentile_10": -1.3,
+              "air_temperature_percentile_90": 2.5,
+              "cloud_area_fraction": 30.0,
+              "cloud_area_fraction_high": 3.5,
+              "cloud_area_fraction_low": 0.7,
+              "cloud_area_fraction_medium": 26.7,
+              "dew_point_temperature": 0.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 97.4,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 283.5,
+              "wind_speed": 0.7,
+              "wind_speed_of_gust": 1.9,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 2.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 0.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-24T23:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 999.1,
+              "air_temperature": 0.9,
+              "air_temperature_percentile_10": -1.4,
+              "air_temperature_percentile_90": 3.8,
+              "cloud_area_fraction": 23.8,
+              "cloud_area_fraction_high": 0.6,
+              "cloud_area_fraction_low": 0.2,
+              "cloud_area_fraction_medium": 23.2,
+              "dew_point_temperature": -0.1,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 95.2,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 249.6,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 1.7,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 3.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 1.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1000.9,
+              "air_temperature": 1.0,
+              "air_temperature_percentile_10": -1.6,
+              "air_temperature_percentile_90": 4.4,
+              "cloud_area_fraction": 14.1,
+              "cloud_area_fraction_high": 0.3,
+              "cloud_area_fraction_low": 0.8,
+              "cloud_area_fraction_medium": 13.1,
+              "dew_point_temperature": -0.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 91.6,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 274.7,
+              "wind_speed": 1.7,
+              "wind_speed_of_gust": 3.8,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 3.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.1,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 2.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T01:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1002.9,
+              "air_temperature": 2.2,
+              "air_temperature_percentile_10": -1.4,
+              "air_temperature_percentile_90": 4.8,
+              "cloud_area_fraction": 1.0,
+              "cloud_area_fraction_high": 0.2,
+              "cloud_area_fraction_low": 0.1,
+              "cloud_area_fraction_medium": 0.7,
+              "dew_point_temperature": -0.2,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 87.8,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 300.5,
+              "wind_speed": 3.0,
+              "wind_speed_of_gust": 6.5,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 3.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.9,
+              "air_temperature_min": 2.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T02:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1005.1,
+              "air_temperature": 3.9,
+              "air_temperature_percentile_10": -1.3,
+              "air_temperature_percentile_90": 4.9,
+              "cloud_area_fraction": 1.0,
+              "cloud_area_fraction_high": 0.1,
+              "cloud_area_fraction_low": 0.9,
+              "cloud_area_fraction_medium": 0.1,
+              "dew_point_temperature": -0.1,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 78.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 306.0,
+              "wind_speed": 3.2,
+              "wind_speed_of_gust": 7.8,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 3.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "air_temperature_max": 3.6,
+              "air_temperature_min": 2.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T03:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1007.0,
+              "air_temperature": 3.6,
+              "air_temperature_percentile_10": -1.2,
+              "air_temperature_percentile_90": 4.7,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -0.8,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 76.3,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 302.0,
+              "wind_speed": 2.7,
+              "wind_speed_of_gust": 7.7,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 3.1
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.2
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.6,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T04:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1008.9,
+              "air_temperature": 3.1,
+              "air_temperature_percentile_10": -1.4,
+              "air_temperature_percentile_90": 4.3,
+              "cloud_area_fraction": 0.1,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.4,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 76.5,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 305.7,
+              "wind_speed": 2.7,
+              "wind_speed_of_gust": 6.5,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 3.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.2
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.6,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T05:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1010.6,
+              "air_temperature": 3.6,
+              "air_temperature_percentile_10": -1.7,
+              "air_temperature_percentile_90": 4.3,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.5,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 72.9,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 314.4,
+              "wind_speed": 2.9,
+              "wind_speed_of_gust": 7.4,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 2.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.3,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1012.1,
+              "air_temperature": 3.3,
+              "air_temperature_percentile_10": -1.7,
+              "air_temperature_percentile_90": 4.0,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.5,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 74.4,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 311.3,
+              "wind_speed": 2.6,
+              "wind_speed_of_gust": 7.3,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 2.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 0.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T07:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1013.4,
+              "air_temperature": 2.7,
+              "air_temperature_percentile_10": -2.0,
+              "air_temperature_percentile_90": 3.3,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.0,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 75.0,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 302.0,
+              "wind_speed": 2.6,
+              "wind_speed_of_gust": 6.2,
+              "wind_speed_percentile_10": 1.4,
+              "wind_speed_percentile_90": 2.6
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T08:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1014.9,
+              "air_temperature": 2.2,
+              "air_temperature_percentile_10": -2.5,
+              "air_temperature_percentile_90": 2.8,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.3,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 75.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 303.6,
+              "wind_speed": 2.5,
+              "wind_speed_of_gust": 6.2,
+              "wind_speed_percentile_10": 1.5,
+              "wind_speed_percentile_90": 2.6
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T09:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1016.1,
+              "air_temperature": 2.0,
+              "air_temperature_percentile_10": -2.2,
+              "air_temperature_percentile_90": 2.6,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 75.5,
+              "ultraviolet_index_clear_sky": 0.2,
+              "wind_from_direction": 319.0,
+              "wind_speed": 2.0,
+              "wind_speed_of_gust": 5.9,
+              "wind_speed_percentile_10": 1.0,
+              "wind_speed_percentile_90": 2.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": 0.8,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T10:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1016.8,
+              "air_temperature": 2.5,
+              "air_temperature_percentile_10": -1.1,
+              "air_temperature_percentile_90": 3.2,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 74.0,
+              "ultraviolet_index_clear_sky": 0.3,
+              "wind_from_direction": 325.4,
+              "wind_speed": 1.5,
+              "wind_speed_of_gust": 4.7,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 1.8
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": -0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T11:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1017.4,
+              "air_temperature": 3.1,
+              "air_temperature_percentile_10": 0.2,
+              "air_temperature_percentile_90": 3.7,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -1.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 77.1,
+              "ultraviolet_index_clear_sky": 0.4,
+              "wind_from_direction": 210.1,
+              "wind_speed": 0.9,
+              "wind_speed_of_gust": 3.6,
+              "wind_speed_percentile_10": 0.6,
+              "wind_speed_percentile_90": 1.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": -1.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1018.1,
+              "air_temperature": 3.4,
+              "air_temperature_percentile_10": 1.1,
+              "air_temperature_percentile_90": 4.1,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -0.7,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 78.4,
+              "ultraviolet_index_clear_sky": 0.4,
+              "wind_from_direction": 235.5,
+              "wind_speed": 0.8,
+              "wind_speed_of_gust": 2.4,
+              "wind_speed_percentile_10": 0.3,
+              "wind_speed_percentile_90": 1.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 5.9
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "air_temperature_max": 3.3,
+              "air_temperature_min": -1.6,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T13:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1018.5,
+              "air_temperature": 3.3,
+              "air_temperature_percentile_10": 1.3,
+              "air_temperature_percentile_90": 4.0,
+              "cloud_area_fraction": 0.0,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": 0.0,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 82.1,
+              "ultraviolet_index_clear_sky": 0.3,
+              "wind_from_direction": 71.2,
+              "wind_speed": 0.6,
+              "wind_speed_of_gust": 2.0,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 0.9
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T14:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1019.0,
+              "air_temperature": 2.3,
+              "air_temperature_percentile_10": 0.7,
+              "air_temperature_percentile_90": 3.0,
+              "cloud_area_fraction": 0.3,
+              "cloud_area_fraction_high": 0.2,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": 0.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 89.8,
+              "ultraviolet_index_clear_sky": 0.1,
+              "wind_from_direction": 106.3,
+              "wind_speed": 0.4,
+              "wind_speed_of_gust": 1.6,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 0.8
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_day"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T15:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1019.3,
+              "air_temperature": 0.8,
+              "air_temperature_percentile_10": -0.5,
+              "air_temperature_percentile_90": 1.6,
+              "cloud_area_fraction": 11.4,
+              "cloud_area_fraction_high": 10.5,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -0.6,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 92.2,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 4.5,
+              "wind_speed": 0.6,
+              "wind_speed_of_gust": 1.5,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.0
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T16:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1020.0,
+              "air_temperature": -0.7,
+              "air_temperature_percentile_10": -1.8,
+              "air_temperature_percentile_90": 0.3,
+              "cloud_area_fraction": 14.3,
+              "cloud_area_fraction_high": 13.9,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.0,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 93.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 304.0,
+              "wind_speed": 0.9,
+              "wind_speed_of_gust": 2.1,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 1.1
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T17:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1020.4,
+              "air_temperature": -1.2,
+              "air_temperature_percentile_10": -2.2,
+              "air_temperature_percentile_90": 0.0,
+              "cloud_area_fraction": 0.2,
+              "cloud_area_fraction_high": 0.1,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -2.8,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 91.7,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 309.7,
+              "wind_speed": 1.3,
+              "wind_speed_of_gust": 2.5,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 1.3
+            }
+          },
+          "next_1_hours": {
+            "summary": {
+              "symbol_code": "clearsky_night"
+            },
+            "details": {
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 0.0,
+              "probability_of_thunder": 0.1
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-25T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1020.3,
+              "air_temperature": -1.6,
+              "air_temperature_percentile_10": -2.8,
+              "air_temperature_percentile_90": -0.5,
+              "cloud_area_fraction": 1.2,
+              "cloud_area_fraction_high": 1.1,
+              "cloud_area_fraction_low": 0.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -3.3,
+              "fog_area_fraction": 0.0,
+              "relative_humidity": 90.3,
+              "ultraviolet_index_clear_sky": 0.0,
+              "wind_from_direction": 326.1,
+              "wind_speed": 1.3,
+              "wind_speed_of_gust": 2.7,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 37.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": -4.8,
+              "air_temperature_min": -7.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 3.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-26T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1019.6,
+              "air_temperature": -6.3,
+              "air_temperature_percentile_10": -7.5,
+              "air_temperature_percentile_90": -4.2,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 97.7,
+              "cloud_area_fraction_medium": 0.8,
+              "dew_point_temperature": -8.1,
+              "relative_humidity": 88.9,
+              "wind_from_direction": 290.4,
+              "wind_speed": 0.9,
+              "wind_speed_percentile_10": 0.5,
+              "wind_speed_percentile_90": 1.2
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsnow",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 86.3
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": -3.8,
+              "air_temperature_min": -6.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 1.1,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 37.3
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-26T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1012.0,
+              "air_temperature": -3.8,
+              "air_temperature_percentile_10": -5.9,
+              "air_temperature_percentile_90": -2.2,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": -5.6,
+              "relative_humidity": 89.3,
+              "wind_from_direction": 25.5,
+              "wind_speed": 1.1,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 1.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "snow",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 92.2
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "snow"
+            },
+            "details": {
+              "air_temperature_max": -0.9,
+              "air_temperature_min": -3.8,
+              "precipitation_amount": 3.9,
+              "precipitation_amount_max": 10.9,
+              "precipitation_amount_min": 0.6,
+              "probability_of_precipitation": 76.5
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-26T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1004.0,
+              "air_temperature": -0.9,
+              "air_temperature_percentile_10": -2.4,
+              "air_temperature_percentile_90": 1.3,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 100.0,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": -2.2,
+              "relative_humidity": 92.4,
+              "wind_from_direction": 336.3,
+              "wind_speed": 1.6,
+              "wind_speed_percentile_10": 1.0,
+              "wind_speed_percentile_90": 2.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsnowshowers_day",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 49.0
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "snow"
+            },
+            "details": {
+              "air_temperature_max": -0.7,
+              "air_temperature_min": -2.1,
+              "precipitation_amount": 2.0,
+              "precipitation_amount_max": 4.3,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 49.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-26T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1009.0,
+              "air_temperature": -2.1,
+              "air_temperature_percentile_10": -3.8,
+              "air_temperature_percentile_90": 0.1,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 63.3,
+              "cloud_area_fraction_low": 0.8,
+              "cloud_area_fraction_medium": 100.0,
+              "dew_point_temperature": -3.6,
+              "relative_humidity": 90.8,
+              "wind_from_direction": 290.1,
+              "wind_speed": 1.6,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 2.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 5.9
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": -2.1,
+              "air_temperature_min": -6.6,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 3.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-27T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1017.1,
+              "air_temperature": -5.5,
+              "air_temperature_percentile_10": -6.7,
+              "air_temperature_percentile_90": -3.4,
+              "cloud_area_fraction": 17.2,
+              "cloud_area_fraction_high": 0.4,
+              "cloud_area_fraction_low": 2.0,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -7.6,
+              "relative_humidity": 87.2,
+              "wind_from_direction": 255.9,
+              "wind_speed": 1.6,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 2.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 3.9
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "air_temperature_max": -5.4,
+              "air_temperature_min": -7.5,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 2.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-27T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1020.5,
+              "air_temperature": -7.4,
+              "air_temperature_percentile_10": -8.7,
+              "air_temperature_percentile_90": -5.1,
+              "cloud_area_fraction": 96.5,
+              "cloud_area_fraction_high": 93.7,
+              "cloud_area_fraction_low": 18.4,
+              "cloud_area_fraction_medium": 4.7,
+              "dew_point_temperature": -9.5,
+              "relative_humidity": 87.1,
+              "wind_from_direction": 298.6,
+              "wind_speed": 1.2,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 1.6
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 5.9
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": -3.6,
+              "air_temperature_min": -7.4,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 2.0
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-27T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1020.1,
+              "air_temperature": -3.6,
+              "air_temperature_percentile_10": -6.6,
+              "air_temperature_percentile_90": -0.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 99.2,
+              "cloud_area_fraction_low": 25.8,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -7.6,
+              "relative_humidity": 75.3,
+              "wind_from_direction": 25.6,
+              "wind_speed": 0.9,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 1.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 9.8
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": -0.8,
+              "air_temperature_min": -3.8,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 3.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-27T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1016.3,
+              "air_temperature": -1.1,
+              "air_temperature_percentile_10": -7.2,
+              "air_temperature_percentile_90": 1.7,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 96.9,
+              "cloud_area_fraction_low": 24.2,
+              "cloud_area_fraction_medium": 32.0,
+              "dew_point_temperature": -3.5,
+              "relative_humidity": 85.3,
+              "wind_from_direction": 189.3,
+              "wind_speed": 2.5,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 4.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.5,
+              "air_temperature_min": -2.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-28T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1012.8,
+              "air_temperature": -0.5,
+              "air_temperature_percentile_10": -6.2,
+              "air_temperature_percentile_90": 2.6,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 98.4,
+              "cloud_area_fraction_low": 52.3,
+              "cloud_area_fraction_medium": 19.5,
+              "dew_point_temperature": -2.7,
+              "relative_humidity": 86.2,
+              "wind_from_direction": 191.5,
+              "wind_speed": 2.3,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 4.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 15.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.2,
+              "air_temperature_min": -2.8,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-28T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1013.2,
+              "air_temperature": -1.1,
+              "air_temperature_percentile_10": -7.4,
+              "air_temperature_percentile_90": 2.5,
+              "cloud_area_fraction": 91.4,
+              "cloud_area_fraction_high": 66.0,
+              "cloud_area_fraction_low": 51.6,
+              "cloud_area_fraction_medium": 0.4,
+              "dew_point_temperature": -2.8,
+              "relative_humidity": 89.8,
+              "wind_from_direction": 251.3,
+              "wind_speed": 1.9,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 4.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.4,
+              "air_temperature_min": -3.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-28T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1012.6,
+              "air_temperature": 1.4,
+              "air_temperature_percentile_10": -4.1,
+              "air_temperature_percentile_90": 3.9,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 97.7,
+              "cloud_area_fraction_low": 35.9,
+              "cloud_area_fraction_medium": 44.5,
+              "dew_point_temperature": -1.6,
+              "relative_humidity": 81.3,
+              "wind_from_direction": 193.7,
+              "wind_speed": 1.8,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 4.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 21.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 2.1,
+              "air_temperature_min": -0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-28T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1011.6,
+              "air_temperature": 0.6,
+              "air_temperature_percentile_10": -5.1,
+              "air_temperature_percentile_90": 2.7,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 99.2,
+              "cloud_area_fraction_low": 39.8,
+              "cloud_area_fraction_medium": 45.3,
+              "dew_point_temperature": -1.1,
+              "relative_humidity": 89.2,
+              "wind_from_direction": 199.6,
+              "wind_speed": 2.8,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 4.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 19.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.9,
+              "air_temperature_min": -0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 15.7
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-29T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1010.3,
+              "air_temperature": 0.9,
+              "air_temperature_percentile_10": -5.6,
+              "air_temperature_percentile_90": 3.4,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 92.2,
+              "cloud_area_fraction_low": 81.6,
+              "cloud_area_fraction_medium": 27.7,
+              "dew_point_temperature": -0.8,
+              "relative_humidity": 89.8,
+              "wind_from_direction": 245.1,
+              "wind_speed": 2.6,
+              "wind_speed_percentile_10": 1.2,
+              "wind_speed_percentile_90": 4.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 9.8
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": -2.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 3.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-29T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1010.7,
+              "air_temperature": -1.2,
+              "air_temperature_percentile_10": -6.7,
+              "air_temperature_percentile_90": 2.6,
+              "cloud_area_fraction": 37.9,
+              "cloud_area_fraction_high": 11.7,
+              "cloud_area_fraction_low": 9.4,
+              "cloud_area_fraction_medium": 10.2,
+              "dew_point_temperature": -5.8,
+              "relative_humidity": 72.7,
+              "wind_from_direction": 244.4,
+              "wind_speed": 2.5,
+              "wind_speed_percentile_10": 1.2,
+              "wind_speed_percentile_90": 5.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "fair_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 9.8
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_day"
+            },
+            "details": {
+              "air_temperature_max": 3.3,
+              "air_temperature_min": -1.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-29T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1013.7,
+              "air_temperature": 3.3,
+              "air_temperature_percentile_10": -2.3,
+              "air_temperature_percentile_90": 5.0,
+              "cloud_area_fraction": 26.2,
+              "cloud_area_fraction_high": 0.0,
+              "cloud_area_fraction_low": 5.1,
+              "cloud_area_fraction_medium": 5.1,
+              "dew_point_temperature": -3.0,
+              "relative_humidity": 64.5,
+              "wind_from_direction": 244.9,
+              "wind_speed": 2.2,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 4.9
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_day"
+            },
+            "details": {
+              "air_temperature_max": 3.3,
+              "air_temperature_min": -0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 5.9
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-29T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1017.6,
+              "air_temperature": 0.1,
+              "air_temperature_percentile_10": -4.4,
+              "air_temperature_percentile_90": 2.7,
+              "cloud_area_fraction": 32.0,
+              "cloud_area_fraction_high": 10.9,
+              "cloud_area_fraction_low": 5.1,
+              "cloud_area_fraction_medium": 3.9,
+              "dew_point_temperature": -3.6,
+              "relative_humidity": 77.6,
+              "wind_from_direction": 204.0,
+              "wind_speed": 2.7,
+              "wind_speed_percentile_10": 0.9,
+              "wind_speed_percentile_90": 4.2
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 15.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "fair_night"
+            },
+            "details": {
+              "air_temperature_max": 0.1,
+              "air_temperature_min": -3.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-30T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1019.9,
+              "air_temperature": -3.1,
+              "air_temperature_percentile_10": -7.3,
+              "air_temperature_percentile_90": 2.3,
+              "cloud_area_fraction": 73.4,
+              "cloud_area_fraction_high": 54.7,
+              "cloud_area_fraction_low": 9.4,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -5.7,
+              "relative_humidity": 83.8,
+              "wind_from_direction": 245.5,
+              "wind_speed": 1.8,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 3.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": -1.8,
+              "air_temperature_min": -4.4,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-30T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1018.3,
+              "air_temperature": -3.6,
+              "air_temperature_percentile_10": -8.4,
+              "air_temperature_percentile_90": 0.6,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 100.0,
+              "cloud_area_fraction_low": 50.8,
+              "cloud_area_fraction_medium": 91.4,
+              "dew_point_temperature": -5.2,
+              "relative_humidity": 90.1,
+              "wind_from_direction": 289.0,
+              "wind_speed": 1.3,
+              "wind_speed_percentile_10": 0.6,
+              "wind_speed_percentile_90": 2.5
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": -3.6,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-30T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1016.4,
+              "air_temperature": 0.9,
+              "air_temperature_percentile_10": -5.7,
+              "air_temperature_percentile_90": 3.9,
+              "cloud_area_fraction": 87.9,
+              "cloud_area_fraction_high": 71.1,
+              "cloud_area_fraction_low": 6.6,
+              "cloud_area_fraction_medium": 0.0,
+              "dew_point_temperature": -3.5,
+              "relative_humidity": 73.7,
+              "wind_from_direction": 202.5,
+              "wind_speed": 0.9,
+              "wind_speed_percentile_10": 0.4,
+              "wind_speed_percentile_90": 4.1
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 1.2,
+              "air_temperature_min": -0.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 11.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-30T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1012.8,
+              "air_temperature": -0.1,
+              "air_temperature_percentile_10": -5.9,
+              "air_temperature_percentile_90": 2.8,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 99.6,
+              "cloud_area_fraction_low": 35.2,
+              "cloud_area_fraction_medium": 28.5,
+              "dew_point_temperature": -2.0,
+              "relative_humidity": 88.3,
+              "wind_from_direction": 247.8,
+              "wind_speed": 1.5,
+              "wind_speed_percentile_10": 0.7,
+              "wind_speed_percentile_90": 4.1
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsnow",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 19.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 0.3,
+              "air_temperature_min": -1.9,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-31T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1009.8,
+              "air_temperature": -1.1,
+              "air_temperature_percentile_10": -5.4,
+              "air_temperature_percentile_90": 4.0,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 99.2,
+              "cloud_area_fraction_low": 53.1,
+              "cloud_area_fraction_medium": 25.8,
+              "dew_point_temperature": -3.1,
+              "relative_humidity": 87.4,
+              "wind_from_direction": 240.3,
+              "wind_speed": 2.0,
+              "wind_speed_percentile_10": 0.6,
+              "wind_speed_percentile_90": 4.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "lightsnow",
+              "symbol_confidence": "uncertain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "snow"
+            },
+            "details": {
+              "air_temperature_max": 0.9,
+              "air_temperature_min": -2.1,
+              "precipitation_amount": 2.8,
+              "precipitation_amount_max": 2.8,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 13.7
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-31T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1007.1,
+              "air_temperature": 0.4,
+              "air_temperature_percentile_10": -5.2,
+              "air_temperature_percentile_90": 5.0,
+              "cloud_area_fraction": 100.0,
+              "cloud_area_fraction_high": 93.7,
+              "cloud_area_fraction_low": 51.6,
+              "cloud_area_fraction_medium": 63.3,
+              "dew_point_temperature": -2.3,
+              "relative_humidity": 83.1,
+              "wind_from_direction": 201.3,
+              "wind_speed": 2.7,
+              "wind_speed_percentile_10": 0.8,
+              "wind_speed_percentile_90": 5.4
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 21.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 3.8,
+              "air_temperature_min": -0.1,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-31T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1005.2,
+              "air_temperature": 3.8,
+              "air_temperature_percentile_10": -0.5,
+              "air_temperature_percentile_90": 7.3,
+              "cloud_area_fraction": 99.2,
+              "cloud_area_fraction_high": 97.7,
+              "cloud_area_fraction_low": 22.7,
+              "cloud_area_fraction_medium": 17.2,
+              "dew_point_temperature": -0.7,
+              "relative_humidity": 73.2,
+              "wind_from_direction": 203.6,
+              "wind_speed": 4.1,
+              "wind_speed_percentile_10": 1.0,
+              "wind_speed_percentile_90": 6.3
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 4.3,
+              "air_temperature_min": 2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 11.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-01-31T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1006.5,
+              "air_temperature": 2.8,
+              "air_temperature_percentile_10": -2.3,
+              "air_temperature_percentile_90": 5.5,
+              "cloud_area_fraction": 98.8,
+              "cloud_area_fraction_high": 93.4,
+              "cloud_area_fraction_low": 13.3,
+              "cloud_area_fraction_medium": 27.7,
+              "dew_point_temperature": -0.5,
+              "relative_humidity": 79.9,
+              "wind_from_direction": 205.1,
+              "wind_speed": 3.4,
+              "wind_speed_percentile_10": 1.6,
+              "wind_speed_percentile_90": 5.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "cloudy",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 3.4,
+              "air_temperature_min": 1.4,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-01T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1004.4,
+              "air_temperature": 2.0,
+              "air_temperature_percentile_10": -2.3,
+              "air_temperature_percentile_90": 6.0,
+              "cloud_area_fraction": 97.7,
+              "cloud_area_fraction_high": 92.2,
+              "cloud_area_fraction_low": 18.7,
+              "cloud_area_fraction_medium": 18.4,
+              "dew_point_temperature": -1.0,
+              "relative_humidity": 81.6,
+              "wind_from_direction": 242.1,
+              "wind_speed": 3.7,
+              "wind_speed_percentile_10": 1.5,
+              "wind_speed_percentile_90": 6.0
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 2.3,
+              "air_temperature_min": 0.3,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 7.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-01T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1000.9,
+              "air_temperature": 1.5,
+              "air_temperature_percentile_10": -3.6,
+              "air_temperature_percentile_90": 4.4,
+              "cloud_area_fraction": 57.8,
+              "cloud_area_fraction_high": 9.4,
+              "cloud_area_fraction_low": 4.7,
+              "cloud_area_fraction_medium": 17.2,
+              "dew_point_temperature": -2.9,
+              "relative_humidity": 74.1,
+              "wind_from_direction": 246.3,
+              "wind_speed": 3.3,
+              "wind_speed_percentile_10": 1.5,
+              "wind_speed_percentile_90": 5.8
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "certain"
+            },
+            "details": {
+              "probability_of_precipitation": 13.7
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day"
+            },
+            "details": {
+              "air_temperature_max": 4.5,
+              "air_temperature_min": 1.4,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-01T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1003.1,
+              "air_temperature": 4.5,
+              "air_temperature_percentile_10": 0.0,
+              "air_temperature_percentile_90": 9.2,
+              "cloud_area_fraction": 96.9,
+              "cloud_area_fraction_high": 94.5,
+              "cloud_area_fraction_low": 6.2,
+              "cloud_area_fraction_medium": 21.1,
+              "dew_point_temperature": -0.6,
+              "relative_humidity": 70.1,
+              "wind_from_direction": 204.3,
+              "wind_speed": 3.1,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 5.7
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_day",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 17.6
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "cloudy"
+            },
+            "details": {
+              "air_temperature_max": 5.1,
+              "air_temperature_min": 2.2,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-01T18:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1003.9,
+              "air_temperature": 2.2,
+              "air_temperature_percentile_10": -3.7,
+              "air_temperature_percentile_90": 5.5,
+              "cloud_area_fraction": 69.5,
+              "cloud_area_fraction_high": 48.4,
+              "cloud_area_fraction_low": 2.7,
+              "cloud_area_fraction_medium": 12.9,
+              "dew_point_temperature": -1.9,
+              "relative_humidity": 75.5,
+              "wind_from_direction": 202.6,
+              "wind_speed": 3.0,
+              "wind_speed_percentile_10": 1.6,
+              "wind_speed_percentile_90": 5.1
+            }
+          },
+          "next_12_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night",
+              "symbol_confidence": "somewhat certain"
+            },
+            "details": {
+              "probability_of_precipitation": 11.8
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 2.7,
+              "air_temperature_min": 0.7,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-02T00:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1002.7,
+              "air_temperature": 0.8,
+              "air_temperature_percentile_10": -5.4,
+              "air_temperature_percentile_90": 5.2,
+              "cloud_area_fraction": 44.9,
+              "cloud_area_fraction_high": 19.1,
+              "cloud_area_fraction_low": 3.9,
+              "cloud_area_fraction_medium": 7.0,
+              "dew_point_temperature": -2.7,
+              "relative_humidity": 78.8,
+              "wind_from_direction": 240.7,
+              "wind_speed": 2.5,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 4.8
+            }
+          },
+          "next_6_hours": {
+            "summary": {
+              "symbol_code": "partlycloudy_night"
+            },
+            "details": {
+              "air_temperature_max": 1.0,
+              "air_temperature_min": -2.0,
+              "precipitation_amount": 0.0,
+              "precipitation_amount_max": 0.0,
+              "precipitation_amount_min": 0.0,
+              "probability_of_precipitation": 9.8
+            }
+          }
+        }
+      },
+      {
+        "time": "2024-02-02T06:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_pressure_at_sea_level": 1001.1,
+              "air_temperature": -1.6,
+              "air_temperature_percentile_10": -7.7,
+              "air_temperature_percentile_90": 5.3,
+              "cloud_area_fraction": 98.4,
+              "cloud_area_fraction_high": 98.0,
+              "cloud_area_fraction_low": 10.9,
+              "cloud_area_fraction_medium": 14.8,
+              "dew_point_temperature": -4.1,
+              "relative_humidity": 84.6,
+              "wind_from_direction": 247.0,
+              "wind_speed": 2.2,
+              "wind_speed_percentile_10": 1.1,
+              "wind_speed_percentile_90": 4.7
+            }
+          }
+        }
+      }
+    ]
+  }
+}
