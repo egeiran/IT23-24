@@ -99,6 +99,15 @@ while state:
                     break
             pokeballs.add(Pokeball((standable_blocks[r_int].rect[0] + 0.5 * standable_blocks[r_int].rect[2], standable_blocks[r_int].rect[1] - 20)))
 
+    print(pokeballs)
+    for pokeball in pokeballs:
+        if player.rect.colliderect(pokeball.rect):
+            print("------------")
+            print(pokeball)
+            print("------------")
+            player.pokeballs += 1
+    
+
     # UPDATE
     player.update(block_group)
 
