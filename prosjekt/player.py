@@ -1,7 +1,14 @@
 import pygame
-import random
+import math
 
 import constants as c
+from pokeball import Pokeball
+
+def fart(x, y, desx, desy, velo):
+    vinkel = math.atan2(desy-y,desx-x)
+    velx = math.cos(vinkel)*velo
+    vely = math.sin(vinkel)*velo
+    return velx, vely
 
 class Player():
     def __init__(self, spritesheets: pygame.sprite.Sprite) -> None:
@@ -18,7 +25,7 @@ class Player():
         # Fart
         self.vel_x = 0
         self.vel_y = 0
-        self.acc_y = 0.6
+        self.acc_y = c.acc_y
         
         self.y = 300
         self.x = 300
@@ -86,6 +93,11 @@ class Player():
                     self.y = block.standheight
                     return True
         return False
+
+    def throw_pokeball(self, mus_x, mus_y):
+        self.pokeballs -= 1
+        vel_x, vel_y = fart(self.rect.centerx, self.rect.centery, mus_x, mus_y, 15)
+        return Pokeball((self.rect.centerx, self.rect.centery), True, vel_x, vel_y)
 
     def update(self, blocks):
         """
