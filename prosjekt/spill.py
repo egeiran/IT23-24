@@ -77,7 +77,7 @@ pokeballs.append(Pokeball((standable_blocks[r_int * -1].rect[0] + 0.5 * standabl
 
 pokemen = []
 pokemon_names = ["pikachu", "charizard"]
-pokemen.append(Pokemon(pokemon_names[0], block_group))
+pokemen.append(Pokemon(pokemon_names[0], standable_blocks))
 
 state = True
 cooldown = 0
@@ -106,11 +106,6 @@ while state:
     if keys[pygame.K_w]:
         if player.is_standing(block_group) and player.vel_y > -1:
             player.vel_y = -13
-    
-    if keys[pygame.K_s]:
-        if player.is_standing(block_group):
-            player.vel_y = 2
-            player.rect.bottom += 100
 
     
     cooldown -= 1
@@ -125,7 +120,12 @@ while state:
             cooldown = c.FPS
     
     # UPDATE
-    player.update(block_group)
+    if keys[pygame.K_s]:
+        player.update(block_group, False)
+    else:
+        player.update(block_group)
+
+
     # DRAW
     screen.fill(c.GREY)
     # block_group.draw(screen)
@@ -139,7 +139,6 @@ while state:
             for pokemon in pokemen:
                 if pokeball.rect.colliderect(pokemon.rect):
                     pokeballs.remove(pokeball)
-                    print("HIT")
             
             if pokeball.rect.right < 0 or pokeball.rect.left > c.WIDTH or pokeball.rect.top > c.HEIGHT or pokeball.rect.bottom < 0:
                 pokeballs.remove(pokeball)

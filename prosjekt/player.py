@@ -83,15 +83,16 @@ class Player():
         else:
             self.image = self.spritesheets[2]
 
-    def is_standing(self, blocks: list):
+    def is_standing(self, blocks: list, standing: bool = True):
         """
             Sjekker om self står på en block
         """
-        for block in blocks:
-            if block.standable:
-                if self.rect.colliderect(block.rect) and self.rect.bottom < block.standheight + 15:
-                    self.y = block.standheight
-                    return True
+        if standing:
+            for block in blocks:
+                if block.standable:
+                    if self.rect.colliderect(block.rect) and self.rect.bottom < block.standheight + 15:
+                        self.y = block.standheight
+                        return True
         return False
 
     def throw_pokeball(self, mus_x, mus_y):
@@ -99,12 +100,12 @@ class Player():
         vel_x, vel_y = fart(self.rect.centerx, self.rect.centery, mus_x, mus_y, 15)
         return Pokeball((self.rect.centerx, self.rect.centery), True, vel_x, vel_y)
 
-    def update(self, blocks):
+    def update(self, blocks, standing: bool = True):
         """
             Oppdaterer posisjon, bilde og tilstand til karakteren
         """
         self.x += self.vel_x
-        if self.is_standing(blocks) and self.vel_y >= 0:
+        if self.is_standing(blocks, standing) and self.vel_y >= 0:
             self.vel_y = 0
         else:
             self.vel_y += self.acc_y
