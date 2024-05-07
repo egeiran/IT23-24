@@ -33,29 +33,32 @@ DONE Avtal tidspunkt for presentasjon innen 26. april
 - Gjør oppgave [2.1 - 2.4 (pseudokode)](https://it2.thorcc.no/databehandling-og-algoritmer/pseudokode#oppgaver)
 - Gjør oppgave [2.12 - 2.14 (algoritmer)](https://it2.thorcc.no/databehandling-og-algoritmer/algoritmer#oppgaver)
 
-TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
+DONE Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering
+- https://github.com/egeiran/IT23-24/tree/main/prosjekt 
 DONE Ha en presentasjon der du forklarer en _avansert_ kode
-TODO Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
 
 ### Gjenbrukbar kode
 
 - Dokumenter deler av koden som hører til et prosjekt med _docstrings_
 
-TODO: Lim inn lenke til kode som er dokumentert med docstrings
+DONE: Lim inn lenke til kode som er dokumentert med docstrings
+- https://github.com/egeiran/1-A-Prosjekt/blob/main/turret.py 
 
 ### Innhente, analysere og presentere data
 
 - Gjør oppgave [3.1 - 3.12 (Pokemon-oppgaver)](https://it2.thorcc.no/apputvikling/oppgaver)
 - Gjør oppgave [2.20 (youtube) eller 2.21 (google play store)](https://it2.thorcc.no/databehandling-og-algoritmer/storre-oppgaver)
 
-TODO Gjør oppgave 2.20 eller 2.21 som øving til tentamen  
-TODO Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+DONE Gjør oppgave 2.20 eller 2.21 som øving til tentamen  
+DONE Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+- https://github.com/egeiran/IT23-24/tree/main/Apputvikling 
 
 ### Vern mot kjøretidsfeil og logiske feil i programmer
 
 - Gjør oppgave [3.13 - 3.16 (testing)](https://it2.thorcc.no/apputvikling/testing#oppgaver)
 
 TODO Lim inn lenker til besvarelse av oppgaver
+- Ikke gjort, men kan stoffet
 
 ## Modellering og representasjon
 
@@ -63,19 +66,21 @@ TODO Lim inn lenker til besvarelse av oppgaver
 
 - Lag UML-diagram for et større objektorientert system
 
-TODO Lim inn lenke til UML-diagram  
+TODO Lim inn lenke til UML-diagram
+- Ikke gjort, men kan stoffet
 
 ### Representasjon av programflyt med kontrollstrukturer
 
 - Gjør oppgave [2.5  og 2.6 (flytdiagram)](https://it2.thorcc.no/databehandling-og-algoritmer/)
 
 TODO Lim inn lenke til besvarelser på github
+- LENKEN TIL OPPGAVENE FUNKER IKKE
 
 ### Brukervennlighet i programmer
 
 - Ha en presentasjon der du vurderer brukervennlighet i et spill/applikasjon og foreslår hensiktsmessige forbedringer
 
-TODO Hold presentasjon der du presenterer ett eller flere prosjekter
+DONE Hold presentasjon der du presenterer ett eller flere prosjekter
 
 ## Problemløsning
 
@@ -87,19 +92,21 @@ TODO Hold presentasjon der du presenterer ett eller flere prosjekter
     - en interaktiv app i terminalen
     - en web-applikasjon laget med Flask
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+- https://github.com/egeiran/IT23-24/tree/main/prosjekt 
 
 ### Alternative løsninger
 
 - Ha en presentasjon der du begrunner valg som er gjort i et prosjekt og vurderer alternative løsninger
 
-TODO Hold presentasjon der du presnterer ett eller flere prosjekter
+DONE Hold presentasjon der du presnterer ett eller flere prosjekter
 
 ### Objektorienterte programmer med klasser, arv og objekter
 
 - Lag et større objektorientert system som inneholder klasser, arv og objekter
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+- https://github.com/egeiran/IT23-24/tree/main/prosjekt
 
 ## Samfunn og systemer
 
@@ -107,13 +114,14 @@ TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 - Oppgave om etikk og konsekvenser ved bruk av IT kommer i uke 12.
 
-TODO Lever oppgave på Teams
+DONE Lever oppgave på Teams
 
 ### Standarder for lagring, utveksling og sikring av data
 
 - Gjør oppgave [2.15 - 2.17 (filhåndtering)](https://it2.thorcc.no/databehandling-og-algoritmer/filhandtering#oppgaver)
 
-TODO Lim inn lenke til oppgavebesvarelser på github.
+DONE Lim inn lenke til oppgavebesvarelser på github.
+- https://github.com/egeiran/IT23-24/tree/main/databehandling-og-algoritmer/spotify 
 
 ### Brukervennlighet i informasjonssystemer
 
@@ -121,22 +129,16 @@ TODO Lim inn lenke til oppgavebesvarelser på github.
 - Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
 
+DONE
+
 #### Mine tilbakemeldinger
 
-TODO Skriv minst tre tilbakemeldinger her
+DONE Skriv minst tre tilbakemeldinger her
 
-#### Eksempler på tilbakemeldinger
+**Prosjekt:** https://github.com/egeiran/IT23-24/tree/main/prosjekt
 
-##### Tilbakemelding #1
+**Bruker:** Gutt 18 år, går i klassen, bor i Lommedalen, veldig glad i OverWatch
 
-**Prosjekt:** [Nettsted: https://ai-foodr.netlify.app](https://ai-foodr.netlify.app/) / [Kode: https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
-**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat  
-**Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
-**Tiltak:** La til en spinnende mikrobølgeovn som vises mens den appen genererer oppskrifter
+**Tilbakemeldinger:** Uklare instruksjoner (controls), Manglende innhold, Fine graphics
 
-##### Tilbakemelding #2
-
-**Prosjekt:** _Lenke til prosjekt_
-**Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill  
-**Tilbakemelding:** "Spillet er alt for vanskelig"  
-**Tiltak:** Satt ned hastigheten på spillet
+**Tiltak:** Gjøre ferdig spillet
