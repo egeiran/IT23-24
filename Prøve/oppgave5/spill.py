@@ -6,7 +6,7 @@ from racket import Racket
 from ball import Ball
 from objekt import Objekt
 
-# 1. Oppsett
+# 1. 
 pygame.init()
 
 WIDTH, HEIGHT = 1200, 800
