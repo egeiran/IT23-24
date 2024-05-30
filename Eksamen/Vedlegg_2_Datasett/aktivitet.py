@@ -50,12 +50,7 @@ def Sorter_Aktiviteter(liste, kjønn):
         Sorterer en liste med aktiviteter basert på kjønn og tiden de bruker på det
     """
     kjønnet = kjønn.title()
-    if kjønnet == "Alle":
-        ny_liste = sorted(liste, key= lambda aktivitet:aktivitet.alle, reverse=True)
-    elif kjønnet == "Menn":
-        ny_liste = sorted(liste, key= lambda aktivitet:aktivitet.menn, reverse=True)
-    elif kjønnet == "Kvinner":
-        ny_liste = sorted(liste, key= lambda aktivitet:aktivitet.kvinner, reverse=True)
+    ny_liste = sorted(liste, key= lambda aktivitet:aktivitet.ordbok[kjønnet], reverse=True)
     return ny_liste
 
 def Sorter_Alle_Underaktiviteter(liste, kjønn):
