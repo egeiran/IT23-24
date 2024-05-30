@@ -1,7 +1,7 @@
 import pygame
 from bodypart import Bodypart
 
-class Spiller():
+class Player():
     def __init__(self) -> None:
         self.vel_x = 1
         self.vel_y = 0
