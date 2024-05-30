@@ -1,6 +1,6 @@
 import pygame
 
-from spiller import Spiller
+from player import Player
 from apple import Apple
 from text import Text
 from map import Map
@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 font = pygame.font.SysFont("Consolas", 25)
 
-snake = Spiller()
+snake = Player()
 apples = [Apple([], snake.body), Apple([], snake.body)]
 startbutton = Text(200, 50, 200, 100, "START", font, (255, 0, 0), (255,255,255), gamestate = "play")
 
@@ -35,7 +35,7 @@ while state:
             if startbutton.handle_event(event.pos):
                 game = startbutton.gamestate
     if game == "lost":
-        snake = Spiller()
+        snake = Player()
         apples = [Apple(apples, snake.body), Apple(apples, snake.body)]
         screen.fill((255,255,255))
         startbutton.draw(screen)
