@@ -3,6 +3,7 @@ import pygame
 from spiller import Spiller
 from apple import Apple
 from text import Text
+from map import Map
 
 pygame.init()
 
@@ -16,6 +17,12 @@ font = pygame.font.SysFont("Consolas", 25)
 snake = Spiller()
 apples = [Apple([], snake.body), Apple([], snake.body)]
 startbutton = Text(200, 50, 200, 100, "START", font, (255, 0, 0), (255,255,255), gamestate = "play")
+
+map = Map(screen, WIDTH, HEIGHT, 50).make_map()
+for tile in map:
+    tile.rect.width = 50
+    tile.surface.fill(tile.color)
+    tile.give_coordinates()
 
 game = "lost"
 state = True
@@ -43,7 +50,8 @@ while state:
         while len(apples) < 2:
             apples.append(Apple(apples, snake.body))
 
-        screen.fill((255,255,255))
+        for tile in map:
+            tile.draw(screen)
         snake.draw_body(screen)
         for apple in apples:
             apple.give_coordinates()

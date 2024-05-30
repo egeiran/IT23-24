@@ -1,0 +1,125 @@
+{
+    "Inntektsgivende arbeid, arbeidsreiser mv.": {
+        "Alle": 3.47,
+        "Menn": 4.34,
+        "Kvinner": 2.59,
+        "Underaktiviteter": {
+            "Inntektsgivende arbeid": {
+                "Alle": 3.25,
+                "Menn": 4.09,
+                "Kvinner": 2.41
+            },
+            "Arbeidsreiser": {
+                "Alle": 0.22,
+                "Menn": 0.25,
+                "Kvinner": 0.18
+            }
+        }
+    },
+    "Husholdsarbeid i alt": {
+        "Alle": 3.18,
+        "Menn": 2.41,
+        "Kvinner": 3.56,
+        "Underaktiviteter": {
+            "Husarbeid": {
+                "Alle": 1.25,
+                "Menn": 0.51,
+                "Kvinner": 1.59
+            },
+            "Vedlikeholdsarbeid": {
+                "Alle": 0.27,
+                "Menn": 0.36,
+                "Kvinner": 0.17
+            },
+            "Omsorgsarbeid": {
+                "Alle": 0.33,
+                "Menn": 0.24,
+                "Kvinner": 0.42
+            },
+            "Kj\u00f8p av varer og tjenester": {
+                "Alle": 0.24,
+                "Menn": 0.21,
+                "Kvinner": 0.26
+            },
+            "Annet husholdsarbeid": {
+                "Alle": 0.12,
+                "Menn": 0.11,
+                "Kvinner": 0.13
+            },
+            "Reiser i samband med husholdsarbeid": {
+                "Alle": 0.19,
+                "Menn": 0.19,
+                "Kvinner": 0.19
+            }
+        }
+    },
+    "Utdanning i alt": {
+        "Alle": 0.25,
+        "Menn": 0.22,
+        "Kvinner": 0.27
+    },
+    "Personlig behov i alt": {
+        "Alle": 9.58,
+        "Menn": 9.46,
+        "Kvinner": 10.11,
+        "Underaktiviteter": {
+            "Nattes\u00f8vn": {
+                "Alle": 7.57,
+                "Menn": 7.5,
+                "Kvinner": 8.04
+            },
+            "Annen personlig pleie": {
+                "Alle": 0.59,
+                "Menn": 0.54,
+                "Kvinner": 1.04
+            },
+            "M\u00e5ltider": {
+                "Alle": 1.03,
+                "Menn": 1.03,
+                "Kvinner": 1.04
+            }
+        }
+    },
+    "Fritid i alt": {
+        "Alle": 6.24,
+        "Menn": 6.28,
+        "Kvinner": 6.2,
+        "Underaktiviteter": {
+            "Idrett og friluftsliv": {
+                "Alle": 0.31,
+                "Menn": 0.34,
+                "Kvinner": 0.28
+            },
+            "Underholdning og kulturbruk": {
+                "Alle": 0.14,
+                "Menn": 0.14,
+                "Kvinner": 0.14
+            },
+            "Sosialt samv\u00e6r": {
+                "Alle": 1.45,
+                "Menn": 1.32,
+                "Kvinner": 1.57
+            },
+            "Lesing": {
+                "Alle": 0.35,
+                "Menn": 0.32,
+                "Kvinner": 0.39
+            },
+            "Fjernsynsseing": {
+                "Alle": 1.48,
+                "Menn": 2.01,
+                "Kvinner": 1.35
+            },
+            "Annen fritid i alt": {
+                "Alle": 0.57,
+                "Menn": 1,
+                "Kvinner": 0.55
+            },
+            "Reiser i samband med fritid": {
+                "Alle": 0.34,
+                "Menn": 0.35,
+                "Kvinner": 0.32
+            }
+        }
+    }
+}

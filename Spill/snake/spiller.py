@@ -23,8 +23,6 @@ class Spiller():
         self.last_dir_x = self.vel_x
         self.last_dir_y = self.vel_y
 
-        print(self.body[0])
-
     def input(self, keys):
         if keys[pygame.K_UP] and self.last_dir_y != 1:
             self.vel_x = 0

@@ -1,0 +1,12 @@
+- Inntektsgivende arbeid, arbeidsreiser mv.
+- Husholdningsarbeid
+- Utdanning
+- Fritid
+  - Idrett og friluftsliv
+  - Underholdning og kulturbruk
+  - Sosialt samvær
+  - Lesing
+  - Fjernsynssein
+  - Annen fritid
+  - Reiser i samband med fritid
+- Annet, uoppgitt
